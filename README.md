@@ -1,2 +1,0 @@
-# Tanklog
-Logging Fuel costs
